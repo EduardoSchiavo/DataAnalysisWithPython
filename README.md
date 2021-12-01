@@ -1,12 +1,21 @@
 # DataAnalysisWithPython
+
 From IBM course on coursera
 
-Importing Data Sets
+## Course Notebooks
 
-Data Wrangling
+[Importing Data Sets](CourseMaterial/review-introduction.ipynb)
 
-Exploratory Data Analysis
+[Data Wrangling](CourseMaterial/data-wrangling.ipynb)
 
-Model Development
+[Exploratory Data Analysis](CourseMaterial/exploratory-data-analysis.ipynb
 
-Model Evaluation And Refinement
+[Model Development](CourseMaterial/model-development.ipynb)
+
+[Model Evaluation And Refinement](CourseMaterial/model-evaluation-and-refinement.ipynb)
+
+## Final Assignments
+
+[House Sales in King County]()
+
+[]()
