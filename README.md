@@ -16,6 +16,6 @@ From IBM course on coursera
 
 ## Final Assignments
 
-[House Sales in King County](House20%Sales20%in20%King20%County.ipynb)
+[House Sales in King County](House%20Sales%20in%20King%20County.ipynb)
 
 [US Economic Data](US Economic Data.ipynb)
