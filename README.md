@@ -18,4 +18,4 @@ From IBM course on coursera
 
 [House Sales in King County](House%20Sales%20in%20King%20County.ipynb)
 
-[US Economic Data](US Economic Data.ipynb)
+[US Economic Data](US%20Economic%20Data.ipynb)
